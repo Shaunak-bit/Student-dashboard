@@ -44,5 +44,5 @@ This project is part of the development assignment for Quorium Consulting.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/Student-dashboard.git
+git clone https://github.com/Shaunak-bit/Student-dashboard.git
 cd Student-dashboard
