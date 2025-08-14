@@ -46,3 +46,4 @@ This project is part of the development assignment for Quorium Consulting.
 ```bash
 git clone https://github.com/Shaunak-bit/Student-dashboard.git
 cd Student-dashboard
+cd quorium-frontend
